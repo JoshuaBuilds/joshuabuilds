@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey, I'm Joshua 👋
 
-<!--
-**JoshuaBuilds/joshuabuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Front-End Developer 🇳🇬
 
-Here are some ideas to get you started:
+I'm learning web development by building practical projects and improving my skills one step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently learning HTML, CSS and JavaScript
+- 🛠️ Building responsive websites and interactive web experiences
+- 🌱 Focused on improving my front-end development skills
+- 🎯 Goal: Build useful websites and grow as a developer
+
+## 🧰 Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Git and GitHub
+
+## 🚀 Featured Projects
+
+### 🍰 Ventora Cakes and Events
+A responsive website concept for a baking and events business.
+
+- **Live Demo:** https://joshuabuilds.github.io/ventora-cakes/
+- **Built with:** HTML, CSS and JavaScript
+
+### 👕 UrbanThread
+
+A clothing store website project focused on presenting products through a clean, modern shopping experience.
+
+- **Live Demo:** https://joshuabuilds.github.io/urbanthread/
+
+- **Built with:** HTML, CSS and JavaScript
+
+### 🍔 Naija Bites
+A restaurant website demo with menu filtering and a shopping cart.
+
+- **Live Demo:** https://joshuabuilds.github.io/naija-bites/
+- **Built with:** HTML, CSS and JavaScript
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/joshuabuilds
+
+---
+
+*Learning, building, and getting better every day.* 🚀
